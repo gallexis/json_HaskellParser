@@ -1,0 +1,4 @@
+-- Haskell Playground 1.0
+let a = string_to_json "true"
+let b = json_to_string (B True)
+print b
